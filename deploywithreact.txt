@@ -1,0 +1,5 @@
+ "homepage": "http://NADER-001cv.github.io/demoNADERCHARGUItu/",
+
+
+  "predeploy": "npm run build",
+    "deploy": "gh-pages  -d build",
